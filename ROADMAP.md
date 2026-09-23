@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+  - toc
 ---
 # Enablement & Engagement Team - Roadmap 2026
 
@@ -12,45 +12,46 @@ hide:
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 1: Fundament
-    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
-    Tools Inrichting (Sprint 77)               :done,      p1_tools,  2026-08-24, 2026-09-07
-    Stakeholder Mapping (Sprint 78-79)            :active,    p1_stake,  2026-09-07, 2026-10-05
-    Roadmap Opzetten (Sprint 78-79)               :active,    p1_road,   2026-09-07, 2026-10-05
-    Communicatie Templates & Beslisboom (Sprint 80)    :p1_comm,   2026-10-05, 2026-10-19
-    Fase 1 Review & Gate                       :crit,      p1_gate,   2026-10-19, 2026-10-19
-    
-    section Fase 2: Efficiëntie
-    JSM Resolution Field Inrichting (Sprint 81)   :p2_resolution, 2026-10-19, 2026-11-02
-    JSM Analyse (Sprint 82)                       :p2_ana,    2026-11-02, 2026-11-16
-    Dashboard Setup (Sprint 82)                   :p2_dash,   2026-11-02, 2026-11-16
-    SLA Inrichting & Monitoring (Sprint 82-83)    :p2_sla,    2026-11-02, 2026-11-30
-    Helpcentrum Architectuur Opzetten (Sprint 82-83)    :p2_hc,     2026-11-02, 2026-11-30
-    Veelvoorkomende Vragen Protocol (Sprint 82)   :p2_protocol, 2026-11-02, 2026-11-16
-    Resolution Proces & Team Training (Sprint 84)    :p2_training, 2026-11-30, 2026-12-14
-    Eerste Batch Component Pagina's (Sprint 84-85)    :p2_components, 2026-11-30, 2026-12-28
-    Efficiëntie Cycle 1 Gereed                  :crit,      p2_gate,   2026-12-28, 2026-12-28
-    
-    section Fase 3: Enablement
-    Component Deep-Dives Start                 :p3_components, 2026-12-28, 2027-05-16
-    Onboarding Curriculum Design               :p3_onboard, 2026-12-28, 2027-02-01
-    Code Voorbeelden & Tutorials               :p3_code,   2027-01-18, 2027-05-16
-    Documentatie Library Gereed                :crit,      p3_gate,   2027-05-16, 2027-05-16
-    
-    section Fase 4: Community & Engagement
-    Community Platform Setup                   :p4_comm,   2027-05-16, 2027-06-13
-    Power-User Identificatie & Training        :p4_power, 2027-05-30, 2027-07-11
-    Eerste User Showcase Event                 :p4_event,  2027-07-11, 2027-08-08
-    Community Content Generatie                :p4_content, 2027-07-25, 2027-10-31
-    
-    section Fase 5: AI & Automatisering
-    AI Veelvoorkomende Vragen Detector         :p5_ai,     2027-10-31, 2027-12-26
-    Chatbot Eerste Lijn Support                :p5_chatbot, 2027-11-28, 2028-02-22
-    FAQ Generator & Content Auto               :p5_faq,    2028-01-02, 2028-03-30
+    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
+    dateFormat YYYY-MM-DD
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 1: Fundament
+    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
+    Tools Inrichting (Sprint 77)               :done,      p1_tools,  2026-08-24, 2026-09-07
+    Stakeholder Mapping (Sprint 78-79)            :active,    p1_stake,  2026-09-07, 2026-10-05
+    Roadmap Opzetten (Sprint 78-79)               :active,    p1_road,   2026-09-07, 2026-10-05
+    Communicatie Templates & Beslisboom (Sprint 80)    :p1_comm,   2026-10-05, 2026-10-19
+    Fase 1 - Afgerond                       :crit,      p1_gate,   2026-10-19, 2026-10-19
+    
+    section Fase 2: Efficiëntie
+    JSM Resolution Field Inrichting (Sprint 81)   :p2_resolution, 2026-10-19, 2026-11-02
+    JSM Analyse (Sprint 82)                       :p2_ana,    2026-11-02, 2026-11-16
+    Dashboard Setup (Sprint 82)                   :p2_dash,   2026-11-02, 2026-11-16
+    Veelvoorkomende Vragen Protocol (Sprint 82)   :p2_protocol, 2026-11-02, 2026-11-16
+    SLA Inrichting & Monitoring (Sprint 82-83)    :p2_sla,    2026-11-02, 2026-11-30
+    Helpcentrum Architectuur Opzetten (Sprint 82-83)    :p2_hc,     2026-11-02, 2026-11-30
+    Resolution Proces & Team Training (Sprint 84)    :p2_training, 2026-11-30, 2026-12-14
+    Eerste Batch Component Pagina's (Sprint 84-85)    :p2_components, 2026-11-30, 2026-12-28
+    Fase 2 - Afgerond                           :crit,      p2_gate,   2026-12-28, 2026-12-28
+    
+    section Fase 3: Enablement
+    Onboarding Curriculum Design               :p3_onboard, 2026-12-28, 2027-02-01
+    Component Deep-Dives Start                 :p3_components, 2026-12-28, 2027-05-16
+    Code Voorbeelden & Tutorials               :p3_code,   2027-01-18, 2027-05-16
+    Fase 3 - Afgerond                          :crit,      p3_gate,   2027-05-16, 2027-05-16
+    
+    section Fase 4: Community & Engagement
+    Community Platform Setup                   :p4_comm,   2027-05-16, 2027-06-13
+    Power-User Identificatie & Training        :p4_power, 2027-05-30, 2027-07-11
+    Eerste User Showcase Event                 :p4_event,  2027-07-11, 2027-08-08
+    Community Content Generatie                :p4_content, 2027-07-25, 2027-10-31
+    Fase 4 - Afgerond                          :crit, 2027-10-31, 2027-10-31
+    
+    section Fase 5: AI & Automatisering
+    AI Veelvoorkomende Vragen Detector         :p5_ai,     2027-10-31, 2027-12-26
+    Chatbot Eerste Lijn Support                :p5_chatbot, 2027-11-28, 2028-02-22
+    FAQ Generator & Content Auto               :p5_faq,    2028-01-02, 2028-03-30
 ```
 
 ---
@@ -59,18 +60,19 @@ gantt
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 1: Fundament
-    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
-    Tools Inrichting (Sprint 77)               :done,      p1_tools,  2026-08-24, 2026-09-07
-    Stakeholder Mapping (Sprint 78-79)            :active,    p1_stake,  2026-09-07, 2026-10-05
-    Roadmap Opzetten (Sprint 78-79)               :active,    p1_road,   2026-09-07, 2026-10-05
-    Communicatie Templates & Beslisboom (Sprint 80)    :p1_comm,   2026-10-05, 2026-10-19
-    Fase 1 Review & Gate                       :crit,      p1_gate,   2026-10-19, 2026-10-19
-    
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    weekend saturday
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 1: Fundament
+    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
+    Tools Inrichting (Sprint 77)               :done,      p1_tools,  2026-08-24, 2026-09-07
+    Stakeholder Mapping (Sprint 78-79)            :active,    p1_stake,  2026-09-07, 2026-10-05
+    Roadmap Opzetten (Sprint 78-79)               :active,    p1_road,   2026-09-07, 2026-10-05
+    Communicatie Werkwijze (Sprint 80)    :p1_comm,   2026-10-05, 2026-10-19
+    Fase 1 Review & Gate                       :crit,      p1_gate,   2026-10-19, 2026-10-19
+    
 ```
 
 **Doel:** Team gereed, stakeholders aligned, communicatie helder, roadmap vastgesteld
@@ -89,7 +91,7 @@ gantt
 
 ---
 
-### Sprint 78 (7 Sep - 21 Sep 2026) 🔄 LOPEND
+### Sprint 78 (7 Sep - 21 Sep 2026) ✅ AFGEROND
 
 **Focus: Stakeholder Mapping & Roadmap Opzetten**
 
@@ -97,10 +99,8 @@ gantt
 |------|------------------|--------|
 | **Stakeholder Mapping & Alignment** | Team Lead (jij) | Overzicht van alle DSP stakeholders, contactpersonen, engagement plan, verwachtingen uitgelegd |
 | **Roadmap Opzetten** | Team Lead (jij) | Dit document uitgewerkt en in Wiki opgeslagen, met alle sprints, milestones, deliverables en afhankelijkheden |
-| **Stakeholder Alignment Sessies** | Team Lead (jij) | Gesprekken met key stakeholders: verwachtingen uitgelegd, feedback opgehaald, buy-in gecreëerd |
-| **Roadmap Review & Refinement** | Team Lead (jij) | Op basis van stakeholder feedback: roadmap aangepasst, prioriteiten helder |
 
-**Deliverable:** Stakeholder matrix complete, roadmap approved, team & stakeholders aligned
+**Deliverable:** Stakeholder matrix aangemaakt, eerste versie roadmap beschikbaar
 
 ---
 
@@ -112,8 +112,9 @@ gantt
 |------|------------------|--------|
 | **Stakeholder Mapping Verdieping** | Team Lead (jij) | Aanvullende gesprekken, alignment finaliseren |
 | **Roadmap Finalisering** | Team Lead (jij) | Roadmap final review, sign-off stakeholders |
+| **Helpcentrum SSP2.0 ready** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
 
-**Deliverable:** Stakeholder mapping & roadmap finaal goedgekeurd
+**Deliverable:** Stakeholder mapping & definitieve roadmap goedgekeurd
 
 **Milestone (5 Okt):** Stakeholder mapping & roadmap ready for next phase
 
@@ -131,7 +132,7 @@ gantt
 | **Team Training Communicatie** | Team Lead (jij) | Training: wanneer welke template gebruiken? Personalisatie? Escalatie criteria? |
 | **Templates & Beslisboom Live** | Team Lead (jij) | Opgeslagen in Wiki, toegankelijk voor het team, dagelijks bruikbaar |
 
-**Deliverable:** Communicatie templates & beslisboom complete en team trained
+**Deliverable:** Communicatie templates & beslisboom complete en team is op de hoogte
 
 **Milestone (19 Okt):** Fase 1 Gate - Fundament COMPLEET
 
@@ -141,20 +142,20 @@ gantt
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 2: Efficiëntie
-    JSM Resolution Field Inrichting (Sprint 81)   :p2_resolution, 2026-10-19, 2026-11-02
-    JSM Analyse (Sprint 82)                       :p2_ana,    2026-11-02, 2026-11-16
-    Dashboard Setup (Sprint 82)                   :p2_dash,   2026-11-02, 2026-11-16
-    SLA Inrichting & Monitoring (Sprint 82-83)    :p2_sla,    2026-11-02, 2026-11-30
-    Helpcentrum Architectuur Opzetten (Sprint 82-83)    :p2_hc,     2026-11-02, 2026-11-30
-    Veelvoorkomende Vragen Protocol (Sprint 82)   :p2_protocol, 2026-11-02, 2026-11-16
-    Resolution Proces & Team Training (Sprint 84)    :p2_training, 2026-11-30, 2026-12-14
-    Eerste Batch Component Pagina's (Sprint 84-85)    :p2_components, 2026-11-30, 2026-12-28
-    Efficiëntie Cycle 1 Gereed                  :crit,      p2_gate,   2026-12-28, 2026-12-28
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 2: Efficiëntie
+    JSM Resolution opzet (Sprint 81)              :p2_resolution, 2026-10-19, 2026-11-02
+    JSM Analyse (Sprint 82)                       :p2_ana,    2026-11-02, 2026-11-16
+    Dashboard Setup (Sprint 82)                   :p2_dash,   2026-11-02, 2026-11-16
+    FAQ Protocol (Sprint 82)                      :p2_protocol, 2026-11-02, 2026-11-16
+    SLA Inrichting & Monitoring (Sprint 82-83)    :p2_sla,    2026-11-02, 2026-11-30
+    Helpcentrum Architectuur Opzetten (Sprint 82-83)    :p2_hc,     2026-11-02, 2026-11-30
+    Resolution Team Training (Sprint 84)    :p2_training, 2026-11-30, 2026-12-14
+    Eerste Batch Component Pagina's (Sprint 84-85)    :p2_components, 2026-11-30, 2026-12-28
+    Efficiëntie Cycle 1 Gereed                  :crit,      p2_gate,   2026-12-28, 2026-12-28
 ```
 
 **Doel:** Eerste grote slag in efficiëntie - support vragen voorkomen via documentatie, SLA's implementeren, veelvoorkomende vragen structureel aanpakken
@@ -187,7 +188,7 @@ gantt
 | **Dashboard Opzetten - Patroondetectie** | Medior DevOps Engineer | JSM Dashboard 2: Veelvoorkomende vragen (top categories, top components, trending issues) |
 | **Dashboard Opzetten - Inzicht** | Medior DevOps Engineer | JSM Dashboard 3: Kwaliteit metrics (resolution rate, re-opened tickets, first contact resolution %, resolution time) |
 | **SLA Strategie & Inrichting START** | Team Lead (jij) + Functioneel Beheerder | SLA's bepaald per ticket type (vb. bugs: 24u, features: 5 werkdagen), JSM SLA rules opstarten |
-| **Veelvoorkomende Vragen Protocol** | Team Lead (jij) + Functioneel Beheerder | Protocol: hoe identificeren we veelvoorkomende vragen? Who is responsible? Escalatie naar documentation? Cadence van review? |
+| **Veelvoorkomende Vragen Protocol** | Team Lead (jij) + Functioneel Beheerder | Protocol: hoe identificeren we veelvoorkomende vragen? Wie is verantwoordelijk? Wanneer maken we extra documentatie? Hoe vaak doen we de check op veelvoorkomende vragen? |
 
 **Deliverable:** 3 dashboards operational, SLA strategie vastgesteld, protocol defined
 
@@ -220,9 +221,7 @@ gantt
 | **JSM Automation voor Resolution** | Medior DevOps Engineer | Automation rules: ticket met resolution field → auto-notificatie naar klant → customer confirmation workflow → auto-close na X dagen |
 | **Team Practicum & Optimalisatie** | Team Lead (jij) + Functioneel Beheerder | Gesimuleerde tickets doorlopen: team voelt Resolution proces, geeft feedback, optimalisaties toepassen |
 | **JSM Response Templates Live** | Functioneel Beheerder | JSM: templates live met links naar helpcentrum, per ticket category |
-| **Top 5 Veelgestelde Vragen** | Functioneel Beheerder + Team Lead | Baseer op JSM analyse: welke vragen komen het meest voor? Dit bepaalt prioriteit voor eerste batch component pagina's |
-| **Component Pagina 1: Database START** | Medior DevOps Engineer + Functioneel Beheerder | Start: functionele beschrijving, technische beschrijving, setup guide |
-| **Component Pagina 2: S3 START** | Medior DevOps Engineer + Functioneel Beheerder | Start: dezelfde elementen als Database |
+| **Top 5 Veelgestelde Vragen** | Functioneel Beheerder + Team Lead | Baseer op JSM analyse: welke vragen komen het meest voor? Dit bepaalt prioriteit voor eerste batch component pagina's 
 
 **Deliverable:** Resolution proces geautomatiseerd in JSM, Response templates live, eerste 2 component pagina's in progress
 
@@ -251,15 +250,15 @@ gantt
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 3: Enablement
-    Component Deep-Dives Start                 :p3_components, 2026-12-28, 2027-05-16
-    Onboarding Curriculum Design               :p3_onboard, 2026-12-28, 2027-02-01
-    Code Voorbeelden & Tutorials               :p3_code,   2027-01-18, 2027-05-16
-    Documentatie Library Gereed                :crit,      p3_gate,   2027-05-16, 2027-05-16
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 3: Enablement
+    Component Deep-Dives Start                 :p3_components, 2026-12-28, 2027-05-16
+    Onboarding Curriculum Design               :p3_onboard, 2026-12-28, 2027-02-01
+    Code Voorbeelden & Tutorials               :p3_code,   2027-01-18, 2027-05-16
+    Documentatie Library Gereed                :crit,      p3_gate,   2027-05-16, 2027-05-16
 ```
 
 **Doel:** Volledige enablement via component deep-dives, onboarding curriculum, code voorbeelden
@@ -343,15 +342,15 @@ gantt
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 4: Community & Engagement
-    Community Platform Setup                   :p4_comm,   2027-05-16, 2027-06-13
-    Power-User Identificatie & Training        :p4_power, 2027-05-30, 2027-07-11
-    Eerste User Showcase Event                 :p4_event,  2027-07-11, 2027-08-08
-    Community Content Generatie                :p4_content, 2027-07-25, 2027-10-31
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 4: Community & Engagement
+    Community Platform Setup                   :p4_comm,   2027-05-16, 2027-06-13
+    Power-User Identificatie & Training        :p4_power, 2027-05-30, 2027-07-11
+    Eerste User Showcase Event                 :p4_event,  2027-07-11, 2027-08-08
+    Community Content Generatie                :p4_content, 2027-07-25, 2027-10-31
 ```
 
 **Doel:** Community platform live, power-users geactiveerd, community-gegenereerde inhoud
@@ -429,14 +428,14 @@ gantt
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    
-    section Fase 5: AI & Automatisering
-    AI Veelvoorkomende Vragen Detector         :p5_ai,     2027-10-31, 2027-12-26
-    Chatbot Eerste Lijn Support                :p5_chatbot, 2027-11-28, 2028-02-22
-    FAQ Generator & Content Auto               :p5_faq,    2028-01-02, 2028-03-30
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    
+    section Fase 5: AI & Automatisering
+    AI Veelvoorkomende Vragen Detector         :p5_ai,     2027-10-31, 2027-12-26
+    Chatbot Eerste Lijn Support                :p5_chatbot, 2027-11-28, 2028-02-22
+    FAQ Generator & Content Auto               :p5_faq,    2028-01-02, 2028-03-30
 ```
 
 **Doel:** AI inzetten om efficiëntie en intelligentie in support en documentatie verder te verhogen
@@ -493,4 +492,3 @@ gantt
 
 ---
 
-*Laatst bijgewerkt: 24 Aug 2026 | Eigenaar: [Jouw Naam] | Volgende review: Einde Sprint 78 (21 Sep 2026)*
