@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+
 # Enablement & Engagement Team - Roadmap 2026
 
 *6-12 maanden planning voor het E&E Team van het Data Science Platform*
@@ -95,7 +96,7 @@ gantt
 
 **Status:** Afgerond
 
-**Focus: Stakeholder Mapping & Roadmap Opzetten**
+**Focus:** Stakeholder Mapping & Roadmap Opzetten
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -128,7 +129,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Communicatie Templates & Beslisboom**
+**Focus:** Communicatie Templates & Beslisboom
 
 | Taak | Verantwoordelijke | Output |
 |------|---|--------|
@@ -172,7 +173,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: JSM Resolution Field Setup**
+**Focus:** JSM Resolution Field Setup
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -189,7 +190,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: JSM Analyse, Dashboards, SLA's & Protocol**
+**Focus:** JSM Analyse, Dashboards, SLA's & Protocol
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -208,7 +209,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: SLA Monitoring, Helpcentrum Architectuur & Response Templates**
+**Focus:** SLA Monitoring, Helpcentrum Architectuur & Response Templates
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -227,7 +228,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Resolution Proces Operationeel & Component Pagina's Start**
+**Focus:** Resolution Proces Operationeel & Component Pagina's Start
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -245,7 +246,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Eerste Batch Component Pagina's**
+**Focus:** Eerste Batch Component Pagina's
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -285,7 +286,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Begin Onboarding Curriculum Design & Component Deep-Dives Start**
+**Focus:** Begin Onboarding Curriculum Design & Component Deep-Dives Start
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -303,7 +304,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Component Deep-Dives Voortgang**
+**Focus:** Component Deep-Dives Voortgang
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -319,7 +320,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Component Deep-Dives Voortgang**
+**Focus:** Component Deep-Dives Voortgang
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -334,7 +335,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Component Deep-Dives Finale**
+**Focus:** Component Deep-Dives Finale
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -349,7 +350,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Onboarding Curriculum Live**
+**Focus:** Onboarding Curriculum Live
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -387,7 +388,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Community Platform Setup**
+**Focus:** Community Platform Setup
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -405,7 +406,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Power-User Identificatie & Training**
+**Focus:** Power-User Identificatie & Training
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -423,7 +424,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Eerste User Showcase Event**
+**Focus:** Eerste User Showcase Event
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -442,7 +443,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Community Content Generatie & Momentum**
+**Focus:** Community Content Generatie & Momentum
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -480,7 +481,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: AI Veelvoorkomende Vragen Detector**
+**Focus:** AI Veelvoorkomende Vragen Detector
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -498,7 +499,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: Chatbot Eerste Lijn Support**
+**Focus:** Chatbot Eerste Lijn Support
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -517,7 +518,7 @@ gantt
 
 **Status:** Niet gestart
 
-**Focus: FAQ Generator & Content Automatisering**
+**Focus:** FAQ Generator & Content Automatisering
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
