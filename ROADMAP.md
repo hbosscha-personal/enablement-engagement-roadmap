@@ -79,7 +79,9 @@ gantt
 
 **Duur:** 4 sprints (8 weken)
 
-### Sprint 77 (24 Aug - 7 Sep 2026) ✅ AFGEROND
+### Sprint 77 (24 Aug - 7 Sep 2026)
+
+**Status:** Afgerond
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -87,11 +89,11 @@ gantt
 | **Team Rollen & Verantwoordelijkheden** | Team Lead (jij) | ✅ Duidelijke rollen per teamlid: wat je doet, wanneer je input hebt, wanneer je beslist |
 | **Tools Inrichting** | Medior DevOps Engineer (begeleiding Team Lead) | ✅ Wiki ruimte opgezet, Jira project geconfigureerd (sprints, workflows, custom fields), Mattermost kanalen ingesteld |
 
-**Status:** ✅ Afgerond
-
 ---
 
-### Sprint 78 (7 Sep - 21 Sep 2026) ✅ AFGEROND
+### Sprint 78 (7 Sep - 21 Sep 2026)
+
+**Status:** Afgerond
 
 **Focus: Stakeholder Mapping & Roadmap Opzetten**
 
@@ -104,7 +106,9 @@ gantt
 
 ---
 
-### Sprint 79 (21 Sep - 5 Okt 2026) 🔄 LOPEND
+### Sprint 79 (21 Sep - 5 Okt 2026)
+
+**Status:** Lopend
 
 **Focus: Stakeholder Mapping & Roadmap Opzetten (Vervolg)**
 
@@ -122,6 +126,8 @@ gantt
 
 ### Sprint 80 (5 Okt - 19 Okt 2026)
 
+**Status:** Niet gestart
+
 **Focus: Communicatie Templates & Beslisboom**
 
 | Taak | Verantwoordelijke | Output |
@@ -134,7 +140,7 @@ gantt
 
 **Deliverable:** Communicatie templates & beslisboom complete en team is op de hoogte
 
-**Milestone (19 Okt):** Fase 1 Gate - Fundament COMPLEET
+**Milestone (19 Okt):** Fase 1 Gate - Fundament
 
 ---
 
@@ -164,6 +170,8 @@ gantt
 
 ### Sprint 81 (19 Okt - 2 Nov 2026)
 
+**Status:** Niet gestart
+
 **Focus: JSM Resolution Field Setup**
 
 | Taak | Verantwoordelijke | Output |
@@ -179,11 +187,13 @@ gantt
 
 ### Sprint 82 (2 Nov - 16 Nov 2026)
 
+**Status:** Niet gestart
+
 **Focus: JSM Analyse, Dashboards, SLA's & Protocol**
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
-| **JSM Data Analyse Afgerond** | Medior DevOps Engineer + Team Lead | Analyse van tickets compleet: patronen en bottlenecks geïdentificeerd |
+| **JSM Data Analyse** | Medior DevOps Engineer + Team Lead | Analyse van tickets compleet: patronen en bottlenecks geïdentificeerd |
 | **Dashboard Opzetten - Overzicht** | Medior DevOps Engineer | JSM Dashboard 1: Team performance (tickets in/out, gemiddelde tijd per status, SLA status overview) |
 | **Dashboard Opzetten - Patroondetectie** | Medior DevOps Engineer | JSM Dashboard 2: Veelvoorkomende vragen (top categories, top components, trending issues) |
 | **Dashboard Opzetten - Inzicht** | Medior DevOps Engineer | JSM Dashboard 3: Kwaliteit metrics (resolution rate, re-opened tickets, first contact resolution %, resolution time) |
@@ -195,6 +205,8 @@ gantt
 ---
 
 ### Sprint 83 (16 Nov - 30 Nov 2026)
+
+**Status:** Niet gestart
 
 **Focus: SLA Monitoring, Helpcentrum Architectuur & Response Templates**
 
@@ -213,6 +225,8 @@ gantt
 
 ### Sprint 84 (30 Nov - 14 Dec 2026)
 
+**Status:** Niet gestart
+
 **Focus: Resolution Proces Operationeel & Component Pagina's Start**
 
 | Taak | Verantwoordelijke | Output |
@@ -229,20 +243,22 @@ gantt
 
 ### Sprint 85 (14 Dec - 28 Dec 2026)
 
-**Focus: Eerste Batch Component Pagina's Afgerond**
+**Status:** Niet gestart
+
+**Focus: Eerste Batch Component Pagina's**
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
-| **Component Pagina 1: Database AFGEROND** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: functionele beschrijving, technische beschrijving, setup guide, code examples (Python/SQL), FAQ's, troubleshooting |
-| **Component Pagina 2: S3 AFGEROND** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: dezelfde structuur als Database |
-| **Component Pagina 3: OpenSearch START/AFGEROND** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: dezelfde structuur |
+| **Component Pagina 1: Database** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: functionele beschrijving, technische beschrijving, setup guide, code examples (Python/SQL), FAQ's, troubleshooting |
+| **Component Pagina 2: S3** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: dezelfde structuur als Database |
+| **Component Pagina 3: OpenSearch** | Medior DevOps Engineer + Functioneel Beheerder | Volledige pagina: dezelfde structuur |
 | **Veelvoorkomende Vragen Monitoren** | Functioneel Beheerder + Team Lead | Wekelijkse review: zijn veelgestelde vragen gedaald dankzij documentatie? Welke vragen opnieuw? |
 | **Proces & Dashboard Review** | Team Lead (jij) | Retrospective: hoe werken SLA's in praktijk? Dashboards nuttig? Resolution proces smooth? Aanpassingen nodig? |
 | **Fase 2 Metrics Baseline** | Medior DevOps Engineer | Verzamel baseline metrics: tickets/week, resolution time, SLA compliance %, self-service rate |
 
 **Deliverable:** Eerste 3 component pagina's live in helpcentrum, JSM templates actief, Resolution proces validated
 
-**Milestone (28 Dec):** Fase 2 Gate - Efficiëntie cycle 1 gereed. Support ticket volume significant lager, self-service route effectief, JSM Resolution & SLA's established
+**Milestone (28 Dec):** Fase 2 Gate - Efficiëntie cycle 1. Support ticket volume significant lager, self-service route effectief, JSM Resolution & SLA's established
 
 ---
 
@@ -267,6 +283,8 @@ gantt
 
 ### Sprint 86-87 (28 Dec 2026 - 25 Jan 2027)
 
+**Status:** Niet gestart
+
 **Focus: Begin Onboarding Curriculum Design & Component Deep-Dives Start**
 
 | Taak | Verantwoordelijke | Output |
@@ -283,6 +301,8 @@ gantt
 
 ### Sprint 88-89 (25 Jan - 8 Feb 2027)
 
+**Status:** Niet gestart
+
 **Focus: Component Deep-Dives Voortgang**
 
 | Taak | Verantwoordelijke | Output |
@@ -297,11 +317,13 @@ gantt
 
 ### Sprint 90-91 (8 Feb - 22 Feb 2027)
 
+**Status:** Niet gestart
+
 **Focus: Component Deep-Dives Voortgang**
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
-| **Component 2: S3 AFGEROND** | Medior DevOps Engineer + Functioneel Beheerder | Volledige documentatie met troubleshooting |
+| **Component 2: S3** | Medior DevOps Engineer + Functioneel Beheerder | Volledige documentatie met troubleshooting |
 | **Component 3: OpenSearch - Setup tot Code** | Medior DevOps Engineer + Functioneel Beheerder | Volledige documentatie |
 
 **Output:** S3 volledig, OpenSearch volledig
@@ -309,6 +331,8 @@ gantt
 ---
 
 ### Sprint 92-93 (22 Feb - 8 Mar 2027)
+
+**Status:** Niet gestart
 
 **Focus: Component Deep-Dives Finale**
 
@@ -323,6 +347,8 @@ gantt
 
 ### Sprint 94-98 (8 Mar - 5 Apr 2027)
 
+**Status:** Niet gestart
+
 **Focus: Onboarding Curriculum Live**
 
 | Taak | Verantwoordelijke | Output |
@@ -334,7 +360,7 @@ gantt
 
 **Deliverable:** Volledige onboarding curriculum live & bruikbaar
 
-**Milestone (16 May):** Fase 3 Gate - Documentatie library gereed, self-service pad vastgesteld
+**Milestone (16 May):** Fase 3 Gate - Documentatie library en self-service pad vastgesteld
 
 ---
 
@@ -359,6 +385,8 @@ gantt
 
 ### Sprint 99-100 (16 May - 13 Jun 2027)
 
+**Status:** Niet gestart
+
 **Focus: Community Platform Setup**
 
 | Taak | Verantwoordelijke | Output |
@@ -374,6 +402,8 @@ gantt
 ---
 
 ### Sprint 101-104 (13 Jun - 11 Jul 2027)
+
+**Status:** Niet gestart
 
 **Focus: Power-User Identificatie & Training**
 
@@ -391,6 +421,8 @@ gantt
 
 ### Sprint 105-106 (11 Jul - 8 Aug 2027)
 
+**Status:** Niet gestart
+
 **Focus: Eerste User Showcase Event**
 
 | Taak | Verantwoordelijke | Output |
@@ -407,6 +439,8 @@ gantt
 ---
 
 ### Sprint 107-112 (8 Aug - 31 Oct 2027)
+
+**Status:** Niet gestart
 
 **Focus: Community Content Generatie & Momentum**
 
@@ -444,6 +478,8 @@ gantt
 
 ### Sprint 113-116 (31 Oct - 26 Dec 2027)
 
+**Status:** Niet gestart
+
 **Focus: AI Veelvoorkomende Vragen Detector**
 
 | Taak | Verantwoordelijke | Output |
@@ -459,6 +495,8 @@ gantt
 ---
 
 ### Sprint 117-120 (26 Dec 2027 - 22 Feb 2028)
+
+**Status:** Niet gestart
 
 **Focus: Chatbot Eerste Lijn Support**
 
@@ -476,6 +514,8 @@ gantt
 ---
 
 ### Sprint 121-124 (22 Feb - 30 Mar 2028)
+
+**Status:** Niet gestart
 
 **Focus: FAQ Generator & Content Automatisering**
 
