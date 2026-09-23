@@ -85,9 +85,9 @@ gantt
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
-| **Way-of-Working & Processen** | Team Lead (jij) | ✅ Gedocumenteerd: Besluitvorming, communicatie, sprint rhythm, escalatie proces, decision logs |
-| **Team Rollen & Verantwoordelijkheden** | Team Lead (jij) | ✅ Duidelijke rollen per teamlid: wat je doet, wanneer je input hebt, wanneer je beslist |
-| **Tools Inrichting** | Medior DevOps Engineer (begeleiding Team Lead) | ✅ Wiki ruimte opgezet, Jira project geconfigureerd (sprints, workflows, custom fields), Mattermost kanalen ingesteld |
+| **Way-of-Working & Processen** | Team Lead (jij) | Gedocumenteerd: Besluitvorming, communicatie, sprint rhythm, escalatie proces, decision logs |
+| **Team Rollen & Verantwoordelijkheden** | Team Lead (jij) | Duidelijke rollen per teamlid: wat je doet, wanneer je input hebt, wanneer je beslist |
+| **Tools Inrichting** | Medior DevOps Engineer (begeleiding Team Lead) | Wiki ruimte opgezet, Jira project geconfigureerd (sprints, workflows, custom fields), Mattermost kanalen ingesteld |
 
 ---
 
@@ -116,11 +116,11 @@ gantt
 |------|------------------|--------|
 | **Stakeholder Mapping Verdieping** | Team Lead (jij) | Aanvullende gesprekken, alignment finaliseren |
 | **Roadmap Finalisering** | Team Lead (jij) | Roadmap final review, sign-off stakeholders |
-| **Helpcentrum SSP2.0 ready** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
+| **Helpcentrum SSP2.0** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
 
 **Deliverable:** Stakeholder mapping & definitieve roadmap goedgekeurd
 
-**Milestone (5 Okt):** Stakeholder mapping & roadmap ready for next phase
+**Milestone (5 Okt):** Stakeholder mapping & roadmap voor de volgende fase
 
 ---
 
@@ -197,7 +197,7 @@ gantt
 | **Dashboard Opzetten - Overzicht** | Medior DevOps Engineer | JSM Dashboard 1: Team performance (tickets in/out, gemiddelde tijd per status, SLA status overview) |
 | **Dashboard Opzetten - Patroondetectie** | Medior DevOps Engineer | JSM Dashboard 2: Veelvoorkomende vragen (top categories, top components, trending issues) |
 | **Dashboard Opzetten - Inzicht** | Medior DevOps Engineer | JSM Dashboard 3: Kwaliteit metrics (resolution rate, re-opened tickets, first contact resolution %, resolution time) |
-| **SLA Strategie & Inrichting START** | Team Lead (jij) + Functioneel Beheerder | SLA's bepaald per ticket type (vb. bugs: 24u, features: 5 werkdagen), JSM SLA rules opstarten |
+| **SLA Strategie & Inrichting** | Team Lead (jij) + Functioneel Beheerder | SLA's bepaald per ticket type (vb. bugs: 24u, features: 5 werkdagen), JSM SLA rules opstarten |
 | **Veelvoorkomende Vragen Protocol** | Team Lead (jij) + Functioneel Beheerder | Protocol: hoe identificeren we veelvoorkomende vragen? Wie is verantwoordelijk? Wanneer maken we extra documentatie? Hoe vaak doen we de check op veelvoorkomende vragen? |
 
 **Deliverable:** 3 dashboards operational, SLA strategie vastgesteld, protocol defined
@@ -397,7 +397,7 @@ gantt
 | **Welcome Automatisering** | Medior DevOps Engineer | Auto-welcome bot met resources & richtlijnen |
 | **Soft Launch** | Team Lead (jij) | Nodig 10-15 vriendelijke power-users voor feedback uit |
 
-**Output:** Community platform gereed voor lancering
+**Output:** Community platform voor lancering
 
 ---
 
