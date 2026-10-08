@@ -22,6 +22,7 @@ gantt
     Onboarding Jasper (Sprint 77-81)          :active,    p1_onb,    2026-08-24, 2026-11-02
     Stakeholder Mapping (Sprint 78-79)        :done,      p1_stake,  2026-09-07, 2026-10-05
     Roadmap Opzetten (Sprint 79-80)           :active,    p1_road,   2026-09-21, 2026-10-19
+    Helpcentrum SSP2.0 ready (Sprint 80)      :active,    p1_ssp,    2026-10-05, 2026-10-19
     Communicatie Templates & Beslisboom (Sprint 81)    :p1_comm,   2026-10-19, 2026-11-02
     Fase 1 - Afgerond                         :crit,      p1_gate,   2026-11-02, 2026-11-02
 
@@ -51,6 +52,7 @@ gantt
     Onboarding Jasper (Sprint 77-81)          :active,    p1_onb,    2026-08-24, 2026-11-02
     Stakeholder Mapping (Sprint 78-79)        :done,      p1_stake,  2026-09-07, 2026-10-05
     Roadmap Opzetten (Sprint 79-80)           :active,    p1_road,   2026-09-21, 2026-10-19
+    Helpcentrum SSP2.0 ready (Sprint 80)      :active,    p1_ssp,    2026-10-05, 2026-10-19
     Communicatie Werkwijze (Sprint 81)        :p1_comm,   2026-10-19, 2026-11-02
     Fase 1 Review & Gate                      :crit,      p1_gate,   2026-11-02, 2026-11-02
 
@@ -104,7 +106,7 @@ gantt
 
 ### Sprint 80 (5 Okt - 19 Okt 2026) 🔄 LOPEND
 
-**Focus: Roadmap Opzetten (Vervolg)**
+**Focus: Roadmap Opzetten (Vervolg) & Helpcentrum SSP2.0**
 
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
@@ -112,7 +114,7 @@ gantt
 | **Helpcentrum SSP2.0 ready** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
 | **Onboarding Jasper** | Team Lead (jij) + team | Onboarding vervolgd |
 
-**Deliverable:** Definitieve roadmap goedgekeurd
+**Deliverable:** Definitieve roadmap goedgekeurd, Helpcentrum SSP2.0 ready
 
 **Milestone (19 Okt):** Roadmap ready for next phase
 
@@ -150,14 +152,45 @@ gantt
 
 ### Hoofdonderwerpen Fase 2
 
-*Concept: onderwerpen worden later verder uitgewerkt tot planbare items.*
+*Concept: onderwerpen en onderdelen worden later verder uitgewerkt tot planbare items.*
 
-| Hoofdonderwerp | Onderdelen |
-|----------------|------------|
-| **Support Portaal optimalisatie** | OT omgeving gelijk aan P, Workflow inclusief resolution, automations, canned responses |
-| **Dashboarding voor support** | Jira Service Management, Grafana |
-| **Support ticket analyse** | Diensten met meeste verzoeken, veelvoorkomende vragen, doorlooptijden |
-| **Voorbereiding Helpcentrum** | Strapi op OT |
+#### 1. Support Portaal optimalisatie
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| OT omgeving gelijk aan P | |
+| Workflow inclusief resolution | |
+| Automations | |
+| Canned responses | |
+
+#### 2. Dashboarding voor support
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| Jira Service Management | |
+| Grafana | |
+
+#### 3. Support ticket analyse
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| Diensten met meeste verzoeken | |
+| Veelvoorkomende vragen | |
+| Doorlooptijden | |
+
+#### 4. Voorbereiding Helpcentrum
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| Strapi op OT | |
 
 **Doel:**
 
@@ -178,13 +211,31 @@ gantt
 
 ### Hoofdonderwerpen Fase 3
 
-*Concept: onderwerpen worden later verder uitgewerkt tot planbare items.*
+*Concept: onderwerpen en onderdelen worden later verder uitgewerkt tot planbare items.*
 
-| Hoofdonderwerp |
-|----------------|
-| **Vernieuwen Helpcentrum** |
-| **Onboarding klanten** |
-| **Code Examples** |
+#### 1. Vernieuwen Helpcentrum
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 2. Onboarding klanten
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 3. Code Examples
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
 
 **Doel:**
 
@@ -205,14 +256,39 @@ gantt
 
 ### Hoofdonderwerpen Fase 4
 
-*Concept: onderwerpen worden later verder uitgewerkt tot planbare items.*
+*Concept: onderwerpen en onderdelen worden later verder uitgewerkt tot planbare items.*
 
-| Hoofdonderwerp |
-|----------------|
-| **Power-Users opzet** |
-| **Organisatie intrekken** |
-| **Events opzetten** |
-| **Blogs over projecten** |
+#### 1. Power-Users opzet
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 2. Organisatie intrekken
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 3. Events opzetten
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 4. Blogs over projecten
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
 
 **Doel:**
 
@@ -233,15 +309,47 @@ gantt
 
 ### Hoofdonderwerpen Fase 5
 
-*Concept: onderwerpen worden later verder uitgewerkt tot planbare items.*
+*Concept: onderwerpen en onderdelen worden later verder uitgewerkt tot planbare items.*
 
-| Hoofdonderwerp |
-|----------------|
-| **1e lijn Chatbot** |
-| **Support Portaal AI inzichten** |
-| **FAQ generator** |
-| **Missende documentatie analyse** |
-| **Documentatie generator** |
+#### 1. 1e lijn Chatbot
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 2. Support Portaal AI inzichten
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 3. FAQ generator
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 4. Missende documentatie analyse
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
+
+#### 5. Documentatie generator
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| | |
 
 **Doel:**
 
