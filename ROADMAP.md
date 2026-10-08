@@ -94,7 +94,6 @@ gantt
 |------|------------------|--------|
 | **Stakeholder Mapping Verdieping** | Team Lead (jij) | Aanvullende gesprekken, alignment finaliseren |
 | **Roadmap Opzetten** | Team Lead (jij) | Dit document uitgewerkt en in Wiki opgeslagen, met alle sprints, milestones, deliverables en afhankelijkheden |
-| **Helpcentrum SSP2.0 ready** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
 | **Onboarding Jasper** | Team Lead (jij) + team | Onboarding vervolgd |
 
 **Deliverable:** Stakeholder mapping goedgekeurd, eerste versie roadmap beschikbaar
@@ -110,6 +109,7 @@ gantt
 | Taak | Verantwoordelijke | Output |
 |------|------------------|--------|
 | **Roadmap Finalisering** | Team Lead (jij) | Roadmap final review, sign-off stakeholders |
+| **Helpcentrum SSP2.0 ready** | Functioneel Beheer | Helpcentrum documentatie moet geupdate worden met SSP2.0 look-and-feel |
 | **Onboarding Jasper** | Team Lead (jij) + team | Onboarding vervolgd |
 
 **Deliverable:** Definitieve roadmap goedgekeurd
