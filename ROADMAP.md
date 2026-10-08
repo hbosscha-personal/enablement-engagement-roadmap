@@ -160,19 +160,20 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| OT omgeving gelijk aan P | |
+| JSM OT omgeving gelijk aan P | |
 | Workflow inclusief resolution | |
 | Automations | |
 | Canned responses | |
 
-#### 2. Dashboarding voor support
+#### 2. Inzichten voor support
 
 **Beschrijving:**
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| Jira Service Management | |
-| Grafana | |
+| Jira Service Management Dashboarding | |
+| Grafana Dashboarding | |
+| Alerting | |
 
 #### 3. Support ticket analyse
 
@@ -190,7 +191,9 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| Strapi op OT | |
+| Strapi beschikbaar op OT | |
+| Inzicht in mogelijkheden i.c.m. SSP | |
+| Nieuwe opzet bepalen | |
 
 **Doel:**
 
