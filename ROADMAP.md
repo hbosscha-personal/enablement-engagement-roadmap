@@ -56,9 +56,9 @@ gantt
 
 ```
 
-**Doel:**
+**Doel:** Team gereed, stakeholders aligned, communicatie helder, roadmap vastgesteld
 
-**Duur:**
+**Duur:** 5 sprints (10 weken)
 
 ### Sprint 77 (24 Aug - 7 Sep 2026) ✅ AFGEROND
 
