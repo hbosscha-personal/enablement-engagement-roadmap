@@ -1,7 +1,8 @@
 ---
 hide:
-  - toc
+  - toc
 ---
+
 # Enablement & Engagement Team - Roadmap 2026
 
 *6-12 maanden planning voor het E&E Team van het Data Science Platform*
@@ -12,27 +13,27 @@ hide:
 
 ```mermaid
 gantt
-    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
-    dateFormat YYYY-MM-DD
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    title E&E Team Roadmap - Sprint-gebaseerd (2-weken cycli)
+    dateFormat YYYY-MM-DD
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 1: Fundament
-    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
-    Tools Inrichting (Sprint 77)              :done,      p1_tools,  2026-08-24, 2026-09-07
-    Onboarding Jasper (Sprint 77-81)          :active,    p1_onb,    2026-08-24, 2026-11-02
-    Stakeholder Mapping (Sprint 78-79)        :done,      p1_stake,  2026-09-07, 2026-10-05
-    Roadmap Opzetten (Sprint 79-80)           :active,    p1_road,   2026-09-21, 2026-10-19
-    Helpcentrum SSP2.0 ready (Sprint 80)      :active,    p1_ssp,    2026-10-05, 2026-10-19
-    Communicatie Templates & Beslisboom (Sprint 81)    :p1_comm,   2026-10-19, 2026-11-02
-    Fase 1 - Afgerond                         :crit,      p1_gate,   2026-11-02, 2026-11-02
+    section Fase 1: Fundament
+    Way-of-Working & Processen (77)           :done,      p1_wow,    2026-08-24, 2026-09-07
+    Tools Inrichting (77)                     :done,      p1_tools,  2026-08-24, 2026-09-07
+    Onboarding Jasper (77-81)                 :active,    p1_onb,    2026-08-24, 2026-11-02
+    Stakeholder Mapping (78-79)               :done,      p1_stake,  2026-09-07, 2026-10-05
+    Roadmap Opzetten (79-80)                  :active,    p1_road,   2026-09-21, 2026-10-19
+    Helpcentrum SSP2.0 (80)                   :active,    p1_ssp,    2026-10-05, 2026-10-19
+    Communicatie Werkwijze (81)               :p1_comm,   2026-10-19, 2026-11-02
+    Fase 1 - Afgerond                         :crit,      p1_gate,   2026-11-02, 2026-11-02
 
-    section Fase 2: Efficiëntie
+    section Fase 2: Efficiëntie
 
-    section Fase 3: Enablement
+    section Fase 3: Enablement
 
-    section Fase 4: Engagement
+    section Fase 4: Engagement
 
-    section Fase 5: AI & Automatisering
+    section Fase 5: AI & Automatisering
 ```
 
 ---
@@ -41,20 +42,20 @@ gantt
 
 ```mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    weekend saturday
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    weekend saturday
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 1: Fundament
-    Way-of-Working & Processen (Sprint 77)    :done,      p1_wow,    2026-08-24, 2026-09-07
-    Tools Inrichting (Sprint 77)              :done,      p1_tools,  2026-08-24, 2026-09-07
-    Onboarding Jasper (Sprint 77-81)          :active,    p1_onb,    2026-08-24, 2026-11-02
-    Stakeholder Mapping (Sprint 78-79)        :done,      p1_stake,  2026-09-07, 2026-10-05
-    Roadmap Opzetten (Sprint 79-80)           :active,    p1_road,   2026-09-21, 2026-10-19
-    Helpcentrum SSP2.0 ready (Sprint 80)      :active,    p1_ssp,    2026-10-05, 2026-10-19
-    Communicatie Werkwijze (Sprint 81)        :p1_comm,   2026-10-19, 2026-11-02
-    Fase 1 Review & Gate                      :crit,      p1_gate,   2026-11-02, 2026-11-02
+    section Fase 1: Fundament
+    Way-of-Working & Processen (77)           :done,      p1_wow,    2026-08-24, 2026-09-07
+    Tools Inrichting (77)                     :done,      p1_tools,  2026-08-24, 2026-09-07
+    Onboarding Jasper (77-81)                 :active,    p1_onb,    2026-08-24, 2026-11-02
+    Stakeholder Mapping (78-79)               :done,      p1_stake,  2026-09-07, 2026-10-05
+    Roadmap Opzetten (79-80)                  :active,    p1_road,   2026-09-21, 2026-10-19
+    Helpcentrum SSP2.0 ready (80)             :active,    p1_ssp,    2026-10-05, 2026-10-19
+    Communicatie Werkwijze (81)               :p1_comm,   2026-10-19, 2026-11-02
+    Fase 1 Review & Gate                      :crit,      p1_gate,   2026-11-02, 2026-11-02
 
 ```
 
@@ -143,11 +144,11 @@ gantt
 
 ```mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 2: Efficiëntie
+    section Fase 2: Efficiëntie
 ```
 
 ### Hoofdonderwerpen Fase 2
@@ -160,10 +161,13 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| JSM OT omgeving gelijk aan P | |
-| Workflow inclusief resolution | |
-| Automations | |
-| Canned responses | |
+| STDSPOT omgeving gelijk aan STDSP | De opzet en inrichting van de Jira Service Management OT omgeving gelijk trekken aan de P omgeving. Op die manier kunnen we nieuwe inrichting op OT testen en deze vervolgens naar P doorzetten. |
+| Upvoting op incident | Inrichting voor upvoting opzetten op STDSPOT en testen of dit bruikbaar is. Zo ja, dan werkbaar proces opzetten voor op Productie. Combinatie van zelf aangemaakt incident welke zichtbaar is voor iedereen waarnaar in Mattermost bericht verwezen wordt voor upvoting(?) |
+| Workflows herzien inclusief resolution | Analyseren en herzien van huidige workflow per request type. Toevoegen van het gebruik van het Resolution veld, zodat tickets daadwerkelijk afgesloten kunnen worden. |
+| Automations optimaliseren | Huidige automatiseringen in kaart brengen en nagaan welke automatiseringen nog relevant zijn en welke nieuwe automatiseringen toegevoegd kunnen worden. |
+| Canned responses optimaliseren | Bestaande standaardantwoorden inventariseren en aanvullen waar nodig. |
+| Werken met Assets (onderzoek) | Onderzoeken hoe we Assets in het project kunnen implementeren. Na onderzoek beslissen of we dit gaan inzetten en hiervoor vervolgplanning maken. |
+| Custom fields (onderzoek) | Onderzoeken of we kunnen/mogen werken met custom fields in Jira Service Management. Als dit mogelijk is, dan gaan we een vervolg bepalen voor op de roadmap. |
 
 #### 2. Inzichten voor support
 
@@ -171,9 +175,9 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| Jira Service Management Dashboarding | |
-| Grafana Dashboarding | |
-| Alerting | |
+| Jira Service Management Dashboarding | Support Performance (SLA success, time to first response, time to resolution, #created vs #resolved, workload per persoon, open / created requests per type of component), Customer Satisfaction (SLA success, Customer Satisfaction) etc. |
+| Grafana Dashboarding | SUPPORT OPERATIONS — CLUSTER OVERVIEW: Overall Service Health, Kubernetes Workload Health, Applicatiebeschikbaarheid en performance, Capaciteit en dreigende problemen etc.  |
+| Alerting | Alerting voor alle shared components (applicatie up/down, schijfruimte), vastgelopen tools (bijv. PostgreSQL databases) etc. |
 
 #### 3. Support ticket analyse
 
@@ -181,9 +185,9 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| Diensten met meeste verzoeken | |
-| Veelvoorkomende vragen | |
-| Doorlooptijden | |
+| Diensten met meeste verzoeken | Analyse van binnengekomen verzoeken en check voor welke diensten de meeste verzoeken binnen komen en waarom. Uitkomst is een voorstel voor verminderen van verzoeken (betere documentatie, code examples, power-users inschakelen). |
+| Veelvoorkomende vragen | Analyse van binnengekomen verzoeken en daarin veelvoorkomende vragen detecteren. Uitkomst hiervan is een uitbreiding van het Helpcentrum met FAQ's. |
+| Doorlooptijden | Analyseren waarom doorlooptijden van klantverzoeken kort of lang zijn. Uitkomst is een voorstel voor optimalisatie van het proces van support. |
 
 #### 4. Voorbereiding Helpcentrum
 
@@ -191,9 +195,18 @@ gantt
 
 | Onderdeel | Beschrijving |
 |-----------|--------------|
-| Strapi beschikbaar op OT | |
-| Inzicht in mogelijkheden i.c.m. SSP | |
-| Nieuwe opzet bepalen | |
+| Strapi beschikbaar op OT | Strapi CMS beschikbaar maken op de OT-omgeving, zodat we daar het vernieuwde Helpcentrum kunnen testen en valideren voordat dit naar Productie gaat. |
+| Inzicht in mogelijkheden i.c.m. SSP | Uitwerken welke mogelijkheden er zijn om het Helpcentrum op SSP2.0 te tonen. Hiervoor zal samen met Raymond (SSP team) een sessie gepland worden. |
+| Nieuwe opzet bepalen | Daadwerkelijk uitwerken van de nieuwe opzet van het Helpcentrum zodat deze overzichtelijker is, maar ook zaken als Code Examples, FAQ's en Best Practices etc. bevat. |
+
+#### 5. Voorbereiding DSP Community
+
+**Beschrijving:**
+
+| Onderdeel | Beschrijving |
+|-----------|--------------|
+| Eerste opzet van community op Mattermost | Opzetten van een eerste versie van de community via Mattermost, zodat we niet blijven wachten op een Defensie brede community-oplossing. Eerst uitwerken welke kanalen beschikbaar moeten komen. |
+
 
 **Doel:**
 
@@ -205,11 +218,11 @@ gantt
 
 ```mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 3: Enablement
+    section Fase 3: Enablement
 ```
 
 ### Hoofdonderwerpen Fase 3
@@ -250,11 +263,11 @@ gantt
 
 ```mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 4: Engagement
+    section Fase 4: Engagement
 ```
 
 ### Hoofdonderwerpen Fase 4
@@ -303,11 +316,11 @@ gantt
 
 ```mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    excludes    weekends
-    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
+    dateFormat YYYY-MM-DD
+    excludes    weekends
+    todayMarker stroke-width:3px,stroke:#0f0,opacity:0.5
 
-    section Fase 5: AI & Automatisering
+    section Fase 5: AI & Automatisering
 ```
 
 ### Hoofdonderwerpen Fase 5
